@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(228, 227, 227);
+    padding-top: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+main {
+    background-color: white;
+    width: 1000px;
+    height: 1200px;
+    margin: auto;
+    padding: 70px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.cancel {
+    color: red;
+    padding-right: 10px;
+}
+
+span {
+    color: grey;
+    font-size: 18px;
+}
+
+p{
+    font-size: 17px;
+    color: rgb(105, 104, 104);
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+div .no-seleccion a {
+    color: gray;
+}
+
+div .no-seleccion {
+    width: 90px;
+    height: 50px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 50px;
+}
+
+div .seleccion a {
+    background-color: rgb(30, 30, 30);
+    color: white
+}
+
+div .seleccion {
+    width: 90px;
+    height: 50px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 50px;
+    background-color: rgb(30, 30, 30);
+    color: white
+}
+
+main .menu {
+    display: flex;
+}
+
+section .evento {
+    padding: 60px 0px 60px 0px;
+    border-bottom: 1px solid rgb(227, 225, 225);
+}

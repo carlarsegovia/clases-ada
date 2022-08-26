@@ -1,0 +1,17 @@
+h1 {
+    font-size: 80px;
+    font-family:'Aboreto', cursive;;
+}
+
+a {
+    color:aqua;
+    text-decoration: none;
+}
+
+.texto1 {
+    color: gray;
+}
+
+.tercerp {
+    font-family:'Roboto Mono', monospace;
+}

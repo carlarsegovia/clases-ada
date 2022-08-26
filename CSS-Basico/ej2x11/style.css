@@ -1,0 +1,25 @@
+* {
+    font-family: 'Play', sans-serif;
+}
+
+h2 {font-size: 40px;
+
+}
+
+h3 { font-size: 20px;
+
+}
+
+a {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+.fecha {
+    font-size: 15px;
+    color: rgb(168, 166, 166);
+}
+
+span {
+    background-color: rgb(192, 192, 192);
+}

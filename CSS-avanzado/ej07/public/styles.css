@@ -1,0 +1,52 @@
+body {
+    background-color: #e7e9f2;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 200px;
+}
+
+main {
+    text-align: center;
+    background-color: white;
+    width: 400px;
+    height: 480px;
+    border-radius: 20px;
+    margin: auto;
+    padding-top: 50px;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+div {
+    background-color: #e7e9f2;
+    width: 280px;
+    height: 140px;
+    margin: auto;
+    border-radius: 8px;
+    padding: 2px;
+}
+
+button {
+    border-radius: 8px;
+    border: none;
+    background-color: white;
+    width: 120px;
+    height: 30px;
+    margin-top: 5px;
+}
+
+.confirm {
+    background-color: #252f4d;
+    color: white;
+    margin-top: 30px;
+}
+
+i {
+    font-size: 40px;
+}

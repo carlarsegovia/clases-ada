@@ -1,0 +1,25 @@
+* {font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: 40px;
+
+}
+
+h1 {font-size: 100px;
+
+}
+
+h2 {font-size: 50px;
+
+}
+
+.fecha {
+    font-size: 30px;
+    color: rgb(162, 159, 159);
+}
+
+.entrada {color: green;
+
+}
+
+.salida {color: red;
+
+}

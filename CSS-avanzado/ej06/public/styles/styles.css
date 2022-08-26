@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(44, 126, 209);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+p {
+    font-size: 17px;
+}
+
+section {
+    width: 300px;
+    height: 290px;
+    background-color: rgb(228, 225, 225);
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-top: 1px;
+}
+
+div {
+    background-color: rgb(241, 240, 240);
+    width: 280px;
+    border-radius: 4px;
+    min-height: 30px;
+    align-items: center;
+    line-height: 30px;
+    
+}
+
+.add-card {
+    color: rgb(93, 92, 92);
+}

@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(235, 234, 234);
+}
+
+div {
+    width: 300px;
+    height: 200px;
+    border: none;
+    margin: auto;
+}
+
+.bandera {
+    margin: auto;
+    padding: 50px;
+    background-color: white;
+    margin-bottom: 50px;
+    margin-top: 25px;
+    border-radius: 20px;
+    width: 900px;
+}
+
+.celeste {
+    background-color: rgb(48, 144, 195);
+    height: 66.66px;
+}
+
+.blanco {
+    background-color: white;
+    height: 66.66px;
+}
+
+.rojo {
+    background-color: red;
+    height: 66.66px;
+}
+
+.verde {
+    background-color: green;
+    height: 66.66px;
+}
+
+.amarillo {
+    background-color: yellow;
+    height: 66.66px;
+}
+
+.azul {
+    background-color: blue;
+    height: 66.66px;
+}
+
+.negro {
+    background-color: black;
+    height: 66.66px;
+}

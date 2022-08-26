@@ -1,0 +1,51 @@
+body {
+    background-color: #f9f9fb;
+}
+
+main {
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+    width: 350px;
+    height: 300px;
+    margin: 12rem;
+    border-radius: 10px;
+    padding: 40px 40px 70px 40px;
+    text-align: left;
+    box-shadow: -8px 12px 19px 5px rgba(190,193,202,1);
+    border: none;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 27px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 15px;
+}
+
+button {
+    font-weight: 100;
+    font-size: 15px;
+    background-color: #579ee4;
+    color: white;
+    width: 180px;
+    height: 50px;
+    box-shadow: -1px 14px 9px -6px rgba(136,178,236,0.68);
+    border-radius: 5px 5px 5px 5px;
+    text-align: center;
+    padding: 15px;
+    border: none;
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #579ee4;
+}
+
+.icon-bell {
+    font-size: 60px;
+    color: #f2c269;
+}
